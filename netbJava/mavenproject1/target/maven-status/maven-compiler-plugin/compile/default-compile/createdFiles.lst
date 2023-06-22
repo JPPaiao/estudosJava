@@ -1,0 +1,5 @@
+com\agenda\app\app.class
+com\mycompany\dao\ContatoDAO.class
+com\mycompany\factory\ConnectionFactory.class
+com\mycompany\mavenproject1\Mavenproject1.class
+com\mycompany\model\Contato.class
